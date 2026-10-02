@@ -18,7 +18,10 @@
 ## 🎥 Platform Demonstration
 
 > **Watch the platform in action!** 
-> *(Insert your AI-generated promotional video or GIF here)*
+
+<div align="center">
+  <video src="assets/demo_video.mp4" width="100%" controls></video>
+</div>
 
 ---
 
