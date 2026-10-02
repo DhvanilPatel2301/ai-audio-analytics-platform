@@ -19,8 +19,7 @@
 
 > **Watch the platform in action!** 
 > 
-> *(Drag and drop your `demo_video.mp4` file here in the GitHub Web Editor)*
-
+> https://github.com/user-attachments/assets/ffc5fa1b-5a63-45dd-aceb-e998b4aaab05
 ---
 
 ## 💡 The Vision
