@@ -24,10 +24,10 @@
 
 ## 💡 The Vision
 
-### ❌ The Challenge
+### 🚧 The Challenge
 Modern call centers ingest thousands of hours of audio daily. Manually reviewing these calls for **Quality Assurance (QA)**, **compliance**, and **Customer Satisfaction (CSAT)** is inherently slow, expensive, and highly prone to human error. Critical customer concerns and actionable follow-ups frequently slip through the cracks.
 
-### ✅ Our Solution
+### ✨ Our Solution
 An automated, AI-driven pipeline that ingests audio, analyzes speech contextually, and outputs structured intelligence. By automating QA and CSAT scoring, managers can focus on **coaching** rather than listening to endless recordings.
 
 ---
@@ -51,7 +51,7 @@ An automated, AI-driven pipeline that ingests audio, analyzes speech contextuall
 Upload raw call center audio files directly into the platform. The engine processes them in batch, preparing them for deep analysis.
 
 <div align="center">
-  <img src="assets/1_upload_interface.png" alt="Batch Audio Processing" width="100%">
+  <img src="assets/1_upload_interface.jpg" alt="Batch Audio Processing" width="100%">
 </div>
 
 <br>
@@ -60,7 +60,7 @@ Upload raw call center audio files directly into the platform. The engine proces
 For any selected call, instantly view a comprehensive breakdown. This includes an Executive AI Summary, a full verbatim transcript, and automatically generated QA/CSAT scores.
 
 <div align="center">
-  <img src="assets/2_metadata_transcript.png" alt="Deep Dive Metadata" width="100%">
+  <img src="assets/2_metadata_transcript1.jpg" alt="Deep Dive Metadata" width="100%">
 </div>
 
 <br>
@@ -69,7 +69,7 @@ For any selected call, instantly view a comprehensive breakdown. This includes a
 Never miss a critical follow-up. The platform isolates exact customer concerns and extracts explicit action items for the team to execute.
 
 <div align="center">
-  <img src="assets/3_concerns_actions.png" alt="Action Items" width="100%">
+  <img src="assets/3_concerns_actions.jpg" alt="Action Items" width="100%">
 </div>
 
 <br>
@@ -78,7 +78,7 @@ Never miss a critical follow-up. The platform isolates exact customer concerns a
 A high-level view for management. Track total analyzed calls, average CSAT, average QA scores, and sentiment distribution across the entire call center floor.
 
 <div align="center">
-  <img src="assets/4_executive_dashboard.png" alt="Executive Dashboard" width="100%">
+  <img src="assets/4_executive_dashboard.jpg" alt="Executive Dashboard" width="100%">
 </div>
 
 <br>
@@ -87,7 +87,7 @@ A high-level view for management. Track total analyzed calls, average CSAT, aver
 Identify what drives escalations. The platform visualizes top escalation drivers and provides a searchable, full intelligence audit database of all processed calls.
 
 <div align="center">
-  <img src="assets/5_audit_database.png" alt="Audit Database" width="100%">
+  <img src="assets/5_audit_database.jpg" alt="Audit Database" width="100%">
 </div>
 
 ---
