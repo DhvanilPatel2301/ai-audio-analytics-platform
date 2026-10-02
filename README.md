@@ -18,8 +18,8 @@
 ## 🎥 Platform Demonstration
 
 > **Watch the platform in action!** 
-> 
-> *(Drag and drop your video file right here in the GitHub Web Editor!)*
+
+https://github.com/DhvanilPatel2301/ai-audio-analytics-platform/blob/main/assets/demo_video.mp4
 
 ---
 
