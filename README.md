@@ -19,9 +19,7 @@
 
 > **Watch the platform in action!** 
 
-<div align="center">
-  <video src="assets/demo_video.mp4" width="100%" controls></video>
-</div>
+<video src="https://github.com/DhvanilPatel2301/ai-audio-analytics-platform/raw/main/assets/demo_video.mp4" width="100%" controls="controls"></video>
 
 ---
 
